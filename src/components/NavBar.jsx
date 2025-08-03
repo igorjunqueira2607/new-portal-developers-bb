@@ -1,6 +1,6 @@
 function NavBar () {
   return(
-    <nav class="h-16 bg-azul-bb p-3 gap-4 flex justify-between fixed w-screen border-b-4 border-amarelo-bb">
+    <nav class="h-16 bg-azul-bb p-3 pr-10 gap-4 flex justify-between fixed w-screen top-0 border-b-4 border-amarelo-bb z-100">
       <div class="flex h-fit w-fit gap-4">
         <button class="max-h-full cursor-pointer"><img class="w-7" src="src/images/icons8-cardápio.svg"/></button>
         <img class="h-9 left-14" src="src/images/BancodoBrasil.Logomarca.Vers╞oPrincipal.Amarelo.RGB.svg"/>

@@ -1,8 +1,12 @@
+import BannerHome from "../components/BannerHome"
 import NavBar from "../components/NavBar"
 
 function Home() {
   return (
-    <NavBar />
+    <body class="flex flex-col justify-items-start">
+      <NavBar />
+      <BannerHome />
+    </body>
   )
 }
 
