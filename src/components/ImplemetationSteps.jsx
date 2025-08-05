@@ -22,7 +22,7 @@ function ImplematationSteps () {
       <div class="flex justify-between w-full mt-4">
         <div class="text-center w-1/6 h-full justify-between flex flex-col items-center">
           <div class="pt-4 pb-4 w-full flex flex-col items-center">
-            <img src="src/images/clipboard.png" class="w-14 h-14"/>
+            <img src="/assets/clipboard.png" class="w-14 h-14"/>
             <h1 class="text-amarelo-bb mt-4 font-medium">
               Cadastre-se no Portal.
             </h1>
@@ -30,7 +30,7 @@ function ImplematationSteps () {
         </div>
         <div class="text-center w-1/6 h-full justify-between flex flex-col items-center">
           <div class="pt-4 pb-4 w-full flex flex-col items-center">
-            <img src="src/images/app-development.png" class="w-14 h-14"/>
+            <img src="assets/app-development.png" class="w-14 h-14"/>
             <h1 class="text-amarelo-bb mt-4 font-medium">
               Crie sua aplicação.
             </h1>
@@ -38,7 +38,7 @@ function ImplematationSteps () {
         </div>
         <div class="text-center w-1/6 h-full justify-between flex flex-col items-center">
           <div class="pt-4 pb-4 w-full flex flex-col items-center">
-            <img src="src/images/hand.png" class="w-14 h-14"/>
+            <img src="/assets/hand.png" class="w-14 h-14"/>
             <h1 class="text-amarelo-bb mt-4 font-medium">
               Escolha uma ou mais APIs.
             </h1>
@@ -46,7 +46,7 @@ function ImplematationSteps () {
         </div>
         <div class="text-center w-1/6 h-full justify-between flex flex-col items-center">
           <div class="pt-4 pb-4 w-full flex flex-col items-center">
-            <img src="src/images/icons8-teste-passado-100.png" class="w-14 h-14"/>
+            <img src="/assets/icons8-teste-passado-100.png" class="w-14 h-14"/>
             <h1 class="text-amarelo-bb mt-4 font-medium">
               Teste as APIs no Sandbox.
             </h1>
