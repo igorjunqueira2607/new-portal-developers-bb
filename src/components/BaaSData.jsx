@@ -9,12 +9,12 @@ function BaasData() {
           <h1 class="text-azul-bb">Saiba mais sobre BaaS</h1>
         </button>
       </div>
-      <div class="flex flex-col w-2/7 p-3 h-full items-center bg-azul-bb rounded-3xl">
+      <div class="flex flex-col w-2/7 p-3 h-full items-center bg-amarelo-bb text-azul-bb rounded-3xl">
         <h1 class="text-5xl font-bold">73%</h1>
         <h2 class="text-lg font-semibold">Crescimento anual de clientes</h2>
         <p class="font-medium text-justify mt-4">Empresas dos mais diferentes setores utilizam as soluções do BB.</p>
-        <button class="bg-amarelo-bb w-3/4 pt-2 pb-2 mt-7 rounded-md">
-          <h1 class="text-azul-bb">Conheça nossos parceiros</h1>
+        <button class="bg-azul-bb w-3/4 pt-2 pb-2 mt-7 rounded-md">
+          <h1 class="text-amarelo-bb">Conheça nossos parceiros</h1>
         </button>
       </div>
       <div class="flex flex-col w-2/7 p-3 h-full items-center bg-azul-bb rounded-3xl">
