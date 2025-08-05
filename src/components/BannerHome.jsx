@@ -1,3 +1,4 @@
+import BaasData from "./BaaSData";
 import ImplematationSteps from "./ImplemetationSteps";
 
 function BannerHome () {
@@ -8,7 +9,8 @@ function BannerHome () {
         <h1 class ="text-amarelo-bb text-8xl font-bold mb-5">Portal Developers BB</h1>
         <h2 class="text-amarelo-bb text-2xl font-normal">Bem-vindo(a) ao Portal Developers do BB. Aqui você irá encontrar tudo que precisa para conectar seu negócio com as APIs do Banco do Brasil de uma maneira simples e fácil.</h2>
       </div>
-      <ImplematationSteps />
+      {/* <ImplematationSteps /> */}
+      <BaasData />
     </div>
   )
 }
