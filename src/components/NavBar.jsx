@@ -23,8 +23,8 @@ function NavBar () {
           <img src="/assets/arrow-down-svgrepo-com.svg" class="h-5 ml-2"/>
         </button>
       </div>
-      <button class="bg-amarelo-bb pl-14 pr-14 ">
-        <h1 class="text-azul-bb">Entrar</h1>
+      <button class="bg-amarelo-bb pl-14 pr-14 rounded-md ">
+        <h1 class="text-azul-bb font-medium">ENTRAR</h1>
       </button>
     </nav>
   )

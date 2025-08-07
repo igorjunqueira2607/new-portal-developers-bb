@@ -3,7 +3,7 @@ import ImplematationSteps from "./ImplemetationSteps";
 
 function BannerHome () {
   return (
-    <div class="w-full h-screen overflow-hidden mt-16 relative flex">
+    <section class="w-full h-screen overflow-hidden mt-16 relative flex">
       <img src="/assets/Banner_Home-1.webp" class="w-max-full h-full scale-x-101 z-0"/>
       <div class="absolute top-1/6 w-5/12 text-justify left-1/7">
         <h1 class ="text-amarelo-bb text-8xl font-bold mb-5">Portal Developers BB</h1>
@@ -11,7 +11,7 @@ function BannerHome () {
       </div>
       {/* <ImplematationSteps /> */}
       <BaasData />
-    </div>
+    </section>
   )
 }
 
